@@ -48,7 +48,7 @@ This project involved redesigning the [hanfra.co.za](https://hanfra.co.za/) car 
 ---
 
 **Usage**  
-This repository contains all project documentation, research data, design files, and testing results. Explore the Figma prototypes and UX design documents to understand the redesign process and improvements made to enhance booking usability.
+This repository contains all project documentation, research data, design files, and testing results in the PDF document. Explore the Figma prototypes and UX design documents to understand the redesign process and improvements made to enhance booking usability.
 
 **Figma Files**
 Iteration 1:
