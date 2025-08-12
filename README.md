@@ -4,7 +4,7 @@ Redesigned a car rental website using the UX Design process through 3 design ite
 # Car Rental Website Redesign
 
 **Overview**  
-This project involved redesigning the [hanfra.co.za](https://hanfra.co.za/) car rental website with a focus on improving the user experience for booking rental vans. The main task centered on helping users find and book a van for 5 people, picking up at Lanseria Airport, while selecting desired features and policies within budget.
+This project involved redesigning the [hanfra.co.za](https://hanfra.co.za/) car rental website with a focus on improving the user experience for booking rental vans. The main task centered on helping users find and book a vehicle of their choice at a certain location, while selecting desired features and policies within budget.
 
 ---
 
